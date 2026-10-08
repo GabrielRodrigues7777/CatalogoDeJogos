@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Minecraft",
+        "genero": "Sandbox",
+        "ano": "2011"
+    },
+    {
+        "nome": "GTA 5 ",
+        "genero": "Ação",
+        "ano": "2013"
+    },
+    {
+        "nome": "Fortnite",
+        "genero": "Battle Royale",
+        "ano": "2017"
+    },
+    {
+        "nome": "Valorant",
+        "genero": "FPS",
+        "ano": "2020"
+    },
+    {
+        "nome": "R6",
+        "genero": "FPS",
+        "ano": "2025"
+    }
+]
